@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title> brocode </title>
+<center> practice</center>
+</head>
+<body>
+<form action="" method="">
+</br>
+<label for="first name"> first name:</label> 
+<input type="text" id="First name" name=""> <br/> <br/>
+
+
+
+<label for="last name">Last name:</label>
+<input type="text" id="last name" name=""><br/> <br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="submit" value="submit">
+</form>
+<audio controls>
+<source src="G:\My Music\(H.S.)Chaar Botal Vodka.mp3"> 
+</audio>
+<br/>
+<br/>
+<video controls width="640" height="360">
+<source src="G:\Video songs\Ed Sheeran - Perfect (Official Music Video).mp4">
+</video>
+</body>
+</html>
